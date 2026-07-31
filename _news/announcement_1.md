@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started studying BSc Computer Science and Engineering at TU Delft
+Started studying BSc Computer Science and Engineering at Delft University of Technology.

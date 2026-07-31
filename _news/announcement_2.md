@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started studying MSc Engineering and Policy Analysis at TU Delft
+Started studying MSc Engineering and Policy Analysis at Delft University of Technology.
