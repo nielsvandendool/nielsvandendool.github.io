@@ -6,7 +6,7 @@ subtitle: Hey there! Nice to  meet you :)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>📝 EPA @ TU Delft</p>
