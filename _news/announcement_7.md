@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished my BSc Systems Engineering, Policy Analysis and Management at TU Delft.
+Graduated as BSc Systems Engineering, Policy Analysis and Management at TU Delft.
